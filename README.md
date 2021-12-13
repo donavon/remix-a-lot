@@ -10,4 +10,4 @@ Just install as follows and enjoy!
 $ npm install remix-a-lot
 ```
 
-![Remix-a-lot — Ryan got back](remix-a-lot.jpg)
+![Remix-a-lot — Ryan got back](https://github.com/donavon/remix-a-lot/blob/main/remix-a-lot.jpg?raw=true)
