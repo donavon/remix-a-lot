@@ -1,0 +1,11 @@
+{
+  "name": "remix-a-lot",
+  "version": "1.0.0",
+  "description": "Remix-a-lot — Ryan got back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donavon West <github@donavon.com> (https://donavon.com/)",
+  "license": "MIT"
+}
