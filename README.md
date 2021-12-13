@@ -1,6 +1,6 @@
 # Remix-a-lot
 
-## Ryan's got back — a Remix parody.
+## Ryan got back — a Remix parody.
 
 Spice up your [Remix](https://github.com/remix-run/remix) app with the funky sounds of "Ryan got back".
 
